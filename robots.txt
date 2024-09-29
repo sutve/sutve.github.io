@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sutve.github.io/aGl/sitemap.aGl.gz
